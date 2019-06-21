@@ -1,0 +1,1 @@
+{"date1": "vendredi", "evp2": "0.2", "precipitation1": "1.1"}
